@@ -1,0 +1,11 @@
+@import '~antd/dist/antd.css';
+
+.logo {
+    width: 120px;
+    height: 60px;
+    background: #ddd url('./static/img/logo.png');
+    border-radius: 6px;
+    margin: 2px 24px 16px 0;
+    float: left;
+    background-size: cover;
+}
